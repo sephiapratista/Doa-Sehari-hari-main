@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Keutamaan menuntut ilmu",
+      "arabic": "عن أبي هريرة رضي الله عنه: أن النبي صلى الله عليه وسلم قال: إذَا مَاتَ الإِنْسَانُ انْقَطَعَ عَمَلُهُ إلاَّ مِنْ ثَلاَثَةِ: إِلاَّ مِنْ صَدَقَةٍ جَارِيَةٍ، أَوْ عِلْمٍ يُنْتَفَعُ بِهِ، أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ",
+      "latin": "“Dari Abu Hurairah r.a meriwayatkan bahwa Rasulullah SAW. bersabda. “Apabila anak cucu Adam telah meninggal dunia maka terputus lah (pahala) amalnya. Kecuali tiga perkara, yaitu sedekah jariyah, ilmu yang bermanfaat, dan anak saleh yang mendoakannya.” ",
+      "translation": "(H.R. Muslim)"
+    },
+    {
+      "id": 2,
+      "title": "Memulai dengan yang kanan",
+      "arabic": "وعن أبي هريرة رضي الله عنه أن رسول الله صلى الله عليه وسلم قال: إذا لبستم، وإذا توضأتم، فابدؤوا بأيامنكم",
+      "latin": "Dari Abi Hurairah radhiyallahu ’anhu, Rasulullah SAW bersabda: Jika kalian memakai pakaian atau berwudhu, mulailah dari anggota bagian kanan.” ",
+      "translation": "(H.R Abu Daud dan at Tirmidzi)"
+    },
+    {
+      "id": 3,
+      "title": "Menjaga kebersihan",
+      "arabic": "السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِِّ",
+      "latin": "“Bersiwak itu akan membuat mulut bersih dan diridhoi oleh Allah SWT.” ",
+      "translation": " (HR An Nasa’i, Aisyah R.A.)"
+    },
+    {
+      "id": 4,
+      "title": "Lembut dalam bertutur kata",
+      "arabic": "وَمَنْ كَانَ يُؤْمِنُ بِاللهِ وَالْيَوْمِ اْلآخِرِ فَليَــقُلْ خَــــيْرًا أَوْ لِيَـصـــمُــتْ",
+      "latin": "“Siapa yang beriman kepada Allah dan hari akhir, hendaklah dia berkata yang baik atau diam.” ",
+      "translation": "(HR. Bukhari)"
+    },
+
+    {
+      "id": 5,
+      "title": "izin sebelum masuk rumah",
+      "arabic": "عن أبى موسى الاشعريّ رضي الله عمه قال: قال رسول الله صلّى الله عليه و سلم: الاستئذانُ ثلاثٌ، فان أذن لك و الاّ فارجع",
+      "latin": "Dari Abu Musa al-Asy'ary r.a. Ia berkata. Rasulullah SAW. bersabda “Mintalah izin (masuk) tiga kali. Jika diizinkan maka itu hakmu, jika tidak maka kembali lah.” ",
+      "translation": "(H.R. Bukhari dan Muslim)"
+    }
+  ]
+}
